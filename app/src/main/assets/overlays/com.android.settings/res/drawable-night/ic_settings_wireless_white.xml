@@ -16,4 +16,4 @@
 <com.android.settings.widget.TintDrawable
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:drawable="@*com.android.settings:drawable/ic_settings_wireless"
-    android:tint="@*@*android:color/background_material_dark" />
+    android:tint="@*android:color/background_material_dark" />
