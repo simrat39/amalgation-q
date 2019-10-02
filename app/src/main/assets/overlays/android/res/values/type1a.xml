@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="holo_blue_light">#ff263238</color>
-    <color name="holo_blue_dark">#ff21272b</color>
+    <color name="accent_material_dark">#4285f4</color>
+    <color name="accent_material_light">#4285f4</color>
+    <color name="accent_device_default_50">#4285f4</color>
+    <color name="accent_device_default_700">#4285f4</color>
+    <color name="accent_device_default_dark">#4285f4</color>
+    <color name="accent_device_default_light">#4285f4</color>
+    <color name="material_deep_teal_200">#4285f4</color>
+    <color name="material_deep_teal_500">#4285f4</color>
+    <color name="user_icon_1">#4285f4</color>
+
+    <color name="micro_text_light">#7700ff</color> <!-- Gradient end-->
 </resources>

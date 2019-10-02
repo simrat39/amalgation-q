@@ -15,11 +15,8 @@
 -->
 
 <resources>
-
-    <style name="TextAppearance.SearchBar"
-           parent="@*android:style/TextAppearance.DeviceDefault.Widget.Toolbar.Subtitle">
-        <item name="android:textColor">@*android:color/white</item>
-	<item name="android:layout_gravity">center</item>
+    <style name="Theme.Settings.Home" parent="@*com.android.settings:Theme.Settings.HomeBase">
+        <item name="*com.android.settings:colorPrimary">@*android:color/background_material_dark</item>
+        <item name="*com.android.settings:colorPrimaryDark">@*android:color/background_floating_material_dark</item>
     </style>
-
 </resources>
